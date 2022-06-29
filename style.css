@@ -25,6 +25,11 @@ body {
       margin: 0 auto;
   }
 
-  .handname {
-      color: pink(225, 238, 0);
+  .handname1 {
+      color:plum (225, 238, 0);
+      font-size: 30px;
+  }
+  .handname1 {
+    color:white (225, 255, 255);
+    font-size: 30px;
   }
