@@ -26,5 +26,5 @@ body {
   }
 
   .handname {
-      color: pink;
+      color: pink(225, 238, 0);
   }
