@@ -1,6 +1,7 @@
 body {
     background-image : url('https://ak.picdn.net/shutterstock/videos/1035659183/thumb/1.jpg?ip=x480');
     background-repeat : repeat;
+    background-size: cover;
     font-family: 'Itim', cursive;
   }
 
