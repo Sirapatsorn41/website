@@ -20,6 +20,11 @@ body {
     text-align: center;
   }
   
+  a {
+    color: black;
+    text-decoration: none;
+  }
+  
   .mainpage {
       width: 1024px;
       margin: 0 auto;
