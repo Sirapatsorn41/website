@@ -8,14 +8,14 @@ body {
   header {
       background-color: palevioletred;
       color: white;
-      height : 100px;
+      height : 70px;
       padding: 10px;
   }
 
   footer {
     background-color: plum;
     color: white;
-    height: 50px;
+    height: 70px;
     padding: 10px;
     text-align: center;
   }
