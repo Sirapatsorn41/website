@@ -8,14 +8,14 @@ body {
   header {
       background-color: palevioletred;
       color: white;
-      height : 70px;
+      height : 100px;
       padding: 10px;
   }
 
   footer {
     background-color: plum;
     color: white;
-    height: 70px;
+    height: 50px;
     padding: 10px;
     text-align: center;
   }
@@ -26,12 +26,12 @@ body {
   }
 
   .handname1 {
-      color:plum (225, 238, 0);
+      color:plum;
       font-size: 30px;
   }
   
   .handname2 {
-      color:white (225, 255, 255);
+      color:white;
   }
 
   .graphic{
@@ -41,7 +41,7 @@ body {
   }
 
   .maps{
-    border: 1px solid rgb(232, 188, 243);
+    border: 1px solid #ccc;
     height: 300px;
   }
 
